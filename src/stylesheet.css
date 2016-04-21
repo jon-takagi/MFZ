@@ -1,0 +1,26 @@
+.DEF {
+    -fx-text-fill: white;
+    -fx-background-color: blue;
+    -fx-font-family: monospace;
+}
+.MVM {
+    -fx-text-fill: white;
+    -fx-background-color: green;
+    -fx-font-family: monospace;
+}
+.weapon {
+    -fx-text-fill: white;
+    -fx-background-color: red;
+    -fx-font-family: monospace;
+}
+.COM {
+    -fx-background-color: yellow;
+    -fx-font-family: monospace;
+}
+.token-image {
+    -fx-max-width: 100px;
+    -fx-min-width: 100px;
+    -fx-max-height: 120px;
+    -fx-min-height: 120px;
+    
+}
